@@ -4,4 +4,6 @@ lista = list(map(int, lista))
 
 
 
+
+
 print(lista , type(lista))
